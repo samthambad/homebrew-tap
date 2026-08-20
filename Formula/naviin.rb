@@ -1,11 +1,11 @@
 class Naviin < Formula
   desc "Terminal-native financial platform for technical individuals"
   homepage "https://samthambad.github.io/Naviin/"
-  version "0.1.1"
+  version "0.1.2"
   on_macos do
     on_arm do
-      url "https://github.com/samthambad/homebrew-tap/releases/download/v0.1.1/naviin-aarch64-apple-darwin.tar.gz"
-      sha256 "ecc1519f66a2b70e3280a3859ee4845e5aa33aec27f6ad61c71c8b6f87e2882c"
+      url "https://github.com/samthambad/homebrew-tap/releases/download/v0.1.2/naviin-aarch64-apple-darwin.tar.gz"
+      sha256 "d716a6764ccfae3e489e6eb3a969ebcfeaa50b96b66df1c384697848e8102b0e"
     end
   end
   def install
